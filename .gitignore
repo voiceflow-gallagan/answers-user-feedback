@@ -1,0 +1,6 @@
+/backups
+.DS_Store
+wip/
+/wip
+.env
+/node_modules
