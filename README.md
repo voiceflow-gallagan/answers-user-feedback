@@ -39,7 +39,7 @@ This application provides:
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/voiceflow-gallagan/answers-user-feedback.git
 cd answers-user-feedback
 ```
 
@@ -116,4 +116,6 @@ The feedback extension will:
 - `POST /api/feedback`: Submit new feedback
 - `GET /api/transcripts`: Retrieve conversation transcripts with feedback
 
+## Video
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/herpxOvDtzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
